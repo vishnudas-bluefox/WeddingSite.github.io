@@ -120,19 +120,19 @@ a, a:hover {
 }
 
 .btn.btn-outline-pill.btn-custom-light {
-  color: #fff;
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  color: #d63447;
+  border: 2px solid #d63447
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
 }
 
 .btn.btn-outline-pill.btn-custom-light:hover, .btn.btn-outline-pill.btn-custom-light:active, .btn.btn-outline-pill.btn-custom-light:focus {
-  border-color: #fff;
+  border-color: #d63447;
 }
 
 .btn.btn-bg-white--hover:hover {
-  background-color: #fff;
+  background-color: #d63447;
   color: #000;
 }
 
@@ -1569,15 +1569,15 @@ figure.dotted-bg:before {
   padding-left: 0;
   padding-right: 0;
   border-radius: 0;
-  color: #fff;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: #a59294;
+  border-bottom: 1px solid #d63447;
 }
 
 .form-outline-style-v1 .form-group .form-control:active, .form-outline-style-v1 .form-group .form-control:focus {
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid rgb(112, 29, 29);
 }
 
 .form-outline-style-v1 .form-group label {
@@ -1604,7 +1604,7 @@ figure.dotted-bg:before {
   padding-right: 0;
   border-radius: 0;
   color: #fff;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 1px solid #d63447;
 }
 
 .form-control:active, .form-control:focus {
@@ -1630,12 +1630,12 @@ figure.dotted-bg:before {
   letter-spacing: .1rem;
   font-weight: 900;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: #d63447;
 }
 
 .contact-info-v1 .contact-info-val {
   font-size: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .portfolio-single-inner .heading-portfolio-single-h2 {
@@ -1773,7 +1773,7 @@ figure.dotted-bg:before {
   font-size: 30px;
   font-weight: 900;
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: rgb(30, 150, 180);
 }
 
 .unslate_co--footer .footer-site-logo a span {
