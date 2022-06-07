@@ -1739,16 +1739,16 @@ figure.dotted-bg:before {
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.5);
 }
 
 .detail-v1 .detail-val {
   font-size: 16px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .detail-v1 .detail-val a {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .unslate_co--footer {
